@@ -1,0 +1,4 @@
+{"title": "Life of Faraz", "author": "Faraz", "publication year": 2002, "genre": "Love", "isReaded": false}
+{"title": "Reasons behind Pakistan's down fall", "author": "Sarfaraz", "publication year": 2025, "genre": "Prioritism", "isReaded": false}
+{"title": "Faraz in Love", "author": "Sarfaraz", "publication year": 2023, "genre": "Love", "isReaded": true}
+{"title": "Why AI is becoming so popular?", "author": "AI Experts", "publication year": 2025, "genre": "Knowledge", "isReaded": true}
